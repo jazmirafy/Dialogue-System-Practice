@@ -12,3 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8f7d9890ae8b71f43a22e98fd8881514, type: 3}
   m_Name: DialogueDatabase
   m_EditorClassIdentifier: Assembly-CSharp::DialogueDatabase
+  database:
+  - {fileID: 11400000, guid: e844db40bb44d44499bfef6878dc6949, type: 2}

@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: JohnGreeting
   m_EditorClassIdentifier: Assembly-CSharp::DialogueLine
   dialogue: 
+  character: {fileID: 11400000, guid: d4641a0f8b36ab5459b77d4dbb7edf82, type: 2}
   dialogueAudio: {fileID: 0}
   responses: []
